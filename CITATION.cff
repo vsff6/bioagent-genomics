@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Genomics Agent Workspace
+message: >
+  If you use this workspace or adapt it for your own projects,
+  please cite it as below.
+type: software
+version: 0.2.0
+date-released: "2025-06-24"
+abstract: >
+  A reproducible Claude Code workspace for genomics QC orchestration.
+  Provides local fallback tools for BAM/VCF/ATAC-seq QC, pre-flight
+  environment checks, reference validation, and biological interpretation
+  guardrails. Designed to complement Anthropic Life Sciences skills
+  and nf-core pipelines, not replace them.
+keywords:
+  - genomics
+  - bioinformatics
+  - claude-code
+  - quality-control
+  - reproducibility
+  - single-cell
+  - atac-seq
+  - wgs
+license: MIT
+url: "https://github.com/vfferreira/genomics-agent-workspace"

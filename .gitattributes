@@ -1,0 +1,18 @@
+* text=auto
+
+*.py text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.tsv text eol=lf
+*.bed text eol=lf
+*.gtf text eol=lf
+*.vcf text eol=lf
+*.fa text eol=lf
+*.fastq text eol=lf
+*.cff text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
