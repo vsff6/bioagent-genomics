@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+numpy
+pandas
+scipy
+matplotlib
+h5py
+pyyaml
+rich
