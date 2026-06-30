@@ -113,6 +113,14 @@ conda env create -f env/environment.yml
 conda activate genomics-agent
 ```
 
+Or with Docker:
+
+```bash
+docker build -t genomics-agent .
+docker run --rm genomics-agent                        # runs the demo
+docker run --rm genomics-agent pytest tests/ -q       # runs the test suite
+```
+
 Optional external tools (install separately; missing tools are warnings, not failures):
 
 ```bash

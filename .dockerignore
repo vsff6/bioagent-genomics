@@ -1,0 +1,13 @@
+.git
+.pytest_cache
+__pycache__
+reports/
+logs/
+*.pyc
+.venv
+venv/
+conda-env/
+references/*.fa
+references/*.fasta
+references/*.gtf
+references/*.vcf
